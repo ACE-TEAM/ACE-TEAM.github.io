@@ -1,0 +1,28 @@
+body {
+    font-family:"Microsoft YaHei";
+}
+.all {
+    color:#fff;
+    text-align:center;
+}
+.ace {
+    background:url(img/alla.png);
+    background-size: 100% 100%;
+}
+.lw {
+    text-align:left;
+    color:#fff;
+    background: url(img/lw.jpg);
+    background-size: 100% 100%;
+}
+.lw h1{
+    padding-left:10%;
+}
+.lw p {
+    padding-left:10%;
+}
+.lw a {
+    color:#24FF00;
+}
+
+}
