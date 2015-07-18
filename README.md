@@ -11,4 +11,6 @@ html结构与fullpage.js默认样式一致。
 
 任务要求是都要有提交，所以大家就pull request吧。
 
+#####训练营安排：https://github.com/baidu-ife/ife/tree/master/2015_summer
+
 ###嗯，大家有问题就提吧。一起讨论，相互改进学习。
