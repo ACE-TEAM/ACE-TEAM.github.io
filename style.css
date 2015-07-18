@@ -15,7 +15,6 @@ body {
     background: url(img/lwb.jpg);
     background-size: 100% 120%;
 }
-
 .lw h1{
     padding-left:10%;
 }
@@ -25,23 +24,5 @@ body {
 .lw a {
     color:#00FFF5;;
 }
-
-.lc{
-    text-align: left;
-    color: #fff;
-    background: url(img/coo.jpg);
-    background-size: 100% 100%;
-    padding-left: 10%;
-
-}
-
-.lc h1{
-    padding-left:10%;
-}
-.lc p {
-    padding-left:10%;
-}
-.lc a {
-    color:#fff;
 
 }
