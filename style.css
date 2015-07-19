@@ -25,4 +25,19 @@ body {
     color:#00FFF5;;
 }
 
+.lc {
+    text-align:left;
+    color:#fff;
+    background: url(img/coo.jpg);
+    background-size: 100% 120%;
 }
+.lc h1{
+    padding-left:10%;
+}
+.lc p {
+    padding-left:10%;
+}
+.lc a {
+    color:#00FFF5;;
+}
+
