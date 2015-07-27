@@ -4,10 +4,15 @@ body {
 .all {
     color:#fff;
     text-align:center;
+    font-size:22px;
 }
 .ace {
-    background:url(img/allb.jpg);
+    background:url(img/lwa.jpg);
     background-size: 100% 100%;
+    vertical-align:text-top;
+}
+.all h1 {
+    color:#00FF94;;
 }
 .lw {
     text-align:left;
@@ -28,7 +33,7 @@ body {
 .lc {
     text-align:left;
     color:#fff;
-    background: url(img/coo.jpg);
+    background: url(img/coin.png);
     background-size: 100% 120%;
 }
 .lc h1{
